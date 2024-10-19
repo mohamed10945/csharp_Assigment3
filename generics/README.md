@@ -45,9 +45,3 @@ The second assignment is to build a generic cache system using the least recentl
 
 This approach encourages clean, reusable code that adheres to the principles of generic programming, enabling flexibility and scalability across different use cases.
 """
-
-# Saving the README.md content to a file
-with open("/mnt/data/README.md", "w") as file:
-    file.write(readme_content)
-
-"/mnt/data/README.md"
