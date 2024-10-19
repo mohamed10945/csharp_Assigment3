@@ -1,5 +1,3 @@
-
-readme_content = """
 # Utility and Cache Classes Overview
 
 This document provides a description of two assignments involving generic programming in C#. The focus is on developing utility functions for arrays and a caching mechanism using generics.
