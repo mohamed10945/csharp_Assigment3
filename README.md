@@ -39,6 +39,3 @@ The second assignment is to build a generic cache system using the least recentl
 - Both assignments make extensive use of C# generics, allowing the functionality to be reused across different data types while maintaining type safety.
 - In Assignment 1, the utility methods work with arrays of any type, and in Assignment 2, the cache can store any combination of key-value pairs.
 - Error handling is included in both assignments, such as managing null or empty arrays and handling cases where an item is not found in the cache.
-
-This approach encourages clean, reusable code that adheres to the principles of generic programming, enabling flexibility and scalability across different use cases.
-"""
